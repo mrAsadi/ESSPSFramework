@@ -1,0 +1,13 @@
+# Compiled Object files
+*.sln
+*.obj
+
+# Executables
+*.exe
+
+.vs
+Debug/*
+ESSPSFramework/bin/*
+ESSPSFramework/obj/*
+ESSPSFramework/properties/*
+*.sln
