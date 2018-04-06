@@ -1,0 +1,9 @@
+D:\dev\C#\ESSPSFramework\ESSPSFramework\bin\Debug\ESSPSFramework.exe.config
+D:\dev\C#\ESSPSFramework\ESSPSFramework\bin\Debug\ESSPSFramework.exe
+D:\dev\C#\ESSPSFramework\ESSPSFramework\bin\Debug\ESSPSFramework.pdb
+D:\dev\C#\ESSPSFramework\ESSPSFramework\obj\Debug\ESSPSFramework.csprojResolveAssemblyReference.cache
+D:\dev\C#\ESSPSFramework\ESSPSFramework\obj\Debug\ESSPSFramework.Form1.resources
+D:\dev\C#\ESSPSFramework\ESSPSFramework\obj\Debug\ESSPSFramework.Properties.Resources.resources
+D:\dev\C#\ESSPSFramework\ESSPSFramework\obj\Debug\ESSPSFramework.csproj.GenerateResource.Cache
+D:\dev\C#\ESSPSFramework\ESSPSFramework\obj\Debug\ESSPSFramework.exe
+D:\dev\C#\ESSPSFramework\ESSPSFramework\obj\Debug\ESSPSFramework.pdb
